@@ -1,6 +1,5 @@
-#+title: Contributing to The List
+#+title: Contribution
 
-* Contributions
 If you know of any good resource feel free to add to the list via an
 /issue/ suggestion or a /pull-request/ or send it to my email and i will
 try find a place for it
