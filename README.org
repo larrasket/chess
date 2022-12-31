@@ -1,0 +1,205 @@
+#+title: List of Chess Resources
+#+options: \n:t
+
+#+begin_quote
+This list is not necessarily meant to be fully comprehensive, but
+just to shed the light on the piles of /hidden/ resources for those who are interested in the game of kings
+#+end_quote
+
+* Servers
+- Lichess [[https://lichess.org/][lichess.org]] \\
+  The Free & Open source GOAT of chess playing websites
+  - Learn the basics [[https://lichess.org/learn][lichess.org/learn]]
+  - Watch them fight [[https://lichess.org/tv][lichess.org/tv]]
+  - Tactics puzzles [[https://lichess.org/training][lichess.org/training]]
+  - Analysis [[https://lichess.org/analysis][lichess.org/analysis]]
+  - Study [[https://lichess.org/study][lichess.org/study]]
+
+- Chesscom [[https://chess.com][chess.com]] \\
+  All the best players in the world play here. lots of chess lessons and courses.   
+  - Play [[https://chess.com/play][chess.com/play]]
+  - Lessons etc [[https://chess.com/learn][chess.com/learn]]
+  - Tactics puzzles [[https://chess.com/puzzles][chess.com/puzzles]]
+  - Explorer [[https://chess.com/explorer][chess.com/explorer]]
+
+- Chess24 [[https://chess24.com][chess24.com]] \\ 
+  Live coverage of major chess events and a nice UI overall
+
+- Chess Tempo [[https://chesstempo.com][chesstempo.com]] \\
+  Tactics puzzles and SRS for openings
+
+- Worth mentioning are also some of the deprecated online chess servers
+  - ICC Internet Chess Club https://www.chessclub.com/
+  - FICS Free Internet Chess Server https://www.freechess.org/
+
+* Learning & Courses
+- Chessable [[https://chessable.com][chessable.com]] \\ 
+  Contains a lot of chess courses by great players. mostly paid but it has some very good free courses.
+- iChess [[https://ichess.net][ichess.net]] \\
+  The main website has paid courses, but lots of free contents on
+  their youtube channel
+- Chess Lessons - Learn with Online Courses https://www.chess.com/lessons
+
+* Books
+- Logical Chess: Move By Move - Irving Chernev
+- My System - Aron Nimzowitsch
+- My 60 Memorable Games - Bobby Fischer
+- How to Reassess Your Chess: Chess Mastery Through Chess Imbalances - Jeremy Silman
+- Zurich international chess tournament, 1953 - David Bronstein
+- Amateur to IM: Proven Ideas and Training Methods - Jonathan Hawkins
+
+* Youtube
+- Saint Louis Chess Club https://www.youtube.com/channel/UCM-ONC2bCHytG2mYtKDmIeA
+  - Beginner level PL by Varuzhan Akobian, Ben Finegold, Yasser Seirawan et al https://www.youtube.com/watch?v=aBBG_tnDz_o&list=PLVWaFpMwtaGgJy03_4RtTAmLSCAonR8ww
+  - Opening Traps | Kids' Class - GM Alejandro Ramirez https://www.youtube.com/watch?v=XETFf3k6xUU 
+  - Johnathan Schrantz PL for openings https://www.youtube.com/watch?v=yB7BmQ92kME&list=PLVWaFpMwtaGgJ4IFHRSsU9-0Gq3y4Gopg
+  - Eric Rosen PL for endgames, tactics and analysis https://www.youtube.com/watch?v=GcGRwjlkQJ0&list=PLVWaFpMwtaGjcbaQEMd2sJGJTTcaAnnaB
+  - Two Bishops in the Middlegame - GM Eric Hansen https://www.youtube.com/watch?v=ZoaLgbniSpw
+  - A History of Chess Openings - GM Yasser Seirawan https://www.youtube.com/watch?v=p5sn-435KFg
+  - In-Between Moves and Zwischenzugs - WGM Jennifer Shahade
+    https://youtu.be/CeJBdm5Q5rI
+  - Popular Beginner Openings - WGM Tatev Abrahamyan
+    https://youtu.be/Xtty2zk3n9o
+- Chesscom [[https://www.youtube.com/@chess][@chess]]
+- Lichess [[https://www.youtube.com/@LichessDotOrg][@LichessDotOrg]]
+- iChess [[https://www.youtube.com/@iChess][@iChess]]
+  - Mastering Piece Placement with GM Daniel Naroditsky https://www.youtube.com/watch?v=eVXcfQVOcRc
+  - Attacking Chess Tactics with GM Nigel Short https://www.youtube.com/watch?v=x-hGq9t_T7U
+- Chess-Network (Jerry) [[https://www.youtube.com/@ChessNetwork][@ChessNetwork]]
+  - Beginner to Chess Master PL
+   https://www.youtube.com/watch?v=CSA9se6t82I&list=PLQsLDm9Rq9bHKEBnElquF8GuWkI1EJ8Zp
+  - How to solve puzzles PL https://www.youtube.com/watch?v=mAVSyYhdo7k&list=PL542BA724CC5A1A3B
+- Daniel Naroditsky [[https://www.youtube.com/@DanielNaroditskyGM][@DanielNaroditskyGM]]
+  - Master Class Speedrun https://www.youtube.com/watch?v=0WPNVHZmYE8&list=PLT1F2nOxLHOefj_z54LNBpnASnIROm43e
+- Chessbrah (Eric Hansen, Aman Hambleton, Yasser Seirawan et al) [[https://www.youtube.com/@chessbrah][@chessbrah]]
+  - Learning How to Attack with GM Yasser Seirawan [[https://www.youtube.com/watch?v=nwg7Jk0Gjoc][https://www.youtube.com/watch?v=nwg7Jk0Gjoc]]
+  - Pawn Structures Explained by GM Yasser Seirawan
+    https://www.youtube.com/watch?v=O2YN73eCfhc
+  - Studying the Games of the World Champions with GM Yasser Seirawan https://www.youtube.com/watch?v=PzcggELVpKw
+  - The Chess Elements Explained by GM Yasser Seirawan https://www.youtube.com/watch?v=L2CK5FKC5Zs
+
+- Eric Rosen [[https://www.youtube.com/@eric-rosen][@eric-rosen]]
+- John Bartholomew [[https://www.youtube.com/channel/UC6hOVYvNn79Sl1Fc1vx2mYA][@JohnBartholomewChess]]
+- GothamChess (Levy Rozman) [[https://www.youtube.com/@GothamChess][@GothamChess]]
+- Hikaru Nakamura [[https://www.youtube.com/@GMHikaru][@GMHikaru]]
+- BotezLive (Alexandra & Andrea Botez) [[https://www.youtube.com/@BotezLive][@BotezLive]]
+- Ben Finegold [[https://www.youtube.com/@GMBenjaminFinegold][@GMBenjaminFinegold]]
+
+- Blitzstream (Kevin Bordi) [[https://www.youtube.com/@VideosEchecs][@VideosEchecs]] FR
+- chess24 [[https://www.youtube.com/@chess24de][@chess24de]] DE
+- Khatibo Fish (Ahmad Al Khatib) [[https://www.youtube.com/@Khatibo_Fish][@Khatibo_Fish]] AR
+
+* Twitch
+- Chesscom [[https://www.twitch.tv/chess][@chess]]
+- Lichess [[https://www.twitch.tv/lichessdotorg][@lichessdotorg]]
+- Hikaru Nakamura [[https://www.twitch.tv/hikaru][@hikaru]]
+- Chessbrah (Eric Hansen, Aman Hambleton et al) [[https://www.twitch.tv/chessbrah][@chessbrah]]
+- Andrew Tang [[https://www.twitch.tv/penguingm1][@penguingm1]]
+- Daniel Naroditsky [[https://www.twitch.tv/gmnaroditsky][@GMNaroditsky]]
+- Eric Rosen [[https://www.twitch.tv/imrosen][@imrosen]]
+- Jerry (ChessNetwork) [[https://www.twitch.tv/chessnetwork][@chessnetwork]]
+- Magnus Carlsen [[https://www.twitch.tv/maskenissen][@maskenissen]] (The champ himself sometimes streams here)
+
+* Podcasts
+- C-Squared Podcast (Fabiano Caruana & Cristian Chirilă) [[https://www.youtube.com/@csqpod][@csqpod]]
+- Perpetual Chess Podcast (Ben Johnson) https://www.perpetualchesspod.com/
+
+* Events & Results
+- Lichess Broadcasts https://lichess.org/broadcast
+- 2700chess https://2700chess.com/
+- chesscom Events & Tournaments https://www.chess.com/events
+- chess-results http://chess-results.com/
+
+* Official
+- FIDE The International Chess Federation or World Chess Federation https://www.fide.com/
+- World Chess https://worldchess.com/
+- US Chess Federation https://new.uschess.org/
+- RU Chess Federation https://ruchess.ru/en/
+- Indian Chess Federation https://aicf.in/
+
+* News
+- chessbase [[https://en.chessbase.com/][https://en.chessbase.com/]]
+- chesscom news [[https://www.chess.com/news][https://www.chess.com/news]]
+- r/chess subreddit https://www.reddit.com/r/chess/
+
+* Variants
+** Fischer Random (Chess960)
+The pieces on the back rows are shuffled while keeping the two bishops
+on opposite square colors and the king placed between the rook to
+retain castling permissions
+- https://en.wikipedia.org/wiki/Fischer_random_chess
+- [[https://www.youtube.com/watch?v=y7NzMuFT_a0][Chess960: Fischer Random Chess Explained | Magnus Carlsen and Lex Fridman]]
+** Crazy House
+Like actual chess, but captured pieces can be dropped back to board
+- https://en.wikipedia.org/wiki/Crazyhouse 
+- [[https://www.youtube.com/watch?v=rmOpKVmiSF8][Skype Crazyhouse Chess - GM Yasser Seirawan vs JannLee (Series 6)]]
+- [[https://www.youtube.com/watch?v=VhZEc73HaYw][ Crazyhouse variant - Blitz Chess w/ commentary ]]
+** Bug House
+Similar to crazy house, but with 4 players and 2 boards. captured
+pieces are passed to the partner to be dropped on board
+- https://en.wikipedia.org/wiki/Bughouse_chess
+- [[https://www.youtube.com/watch?v=T_EgQ5oopAA][Bughouse Chess with Grandmasters - GM Hikaru and helmsknight vs GM Yasser and JannLee]]
+** 3-Check
+Same rules as normal chess, except 3 checks to the king during the
+entire game is considered checkmate
+- https://lichess.org/variant/threeCheck
+- [[https://www.youtube.com/watch?v=3MepjJEtmI8&list=PLQsLDm9Rq9bFBu5Z3R2sX5F-CE-R2oDdY][Three-check chess games]]
+
+* Software
+- SCID https://scid.sourceforge.net/ \\
+  Free and platform-dependant (Windows)
+- SCID vs PC https://scidvspc.sourceforge.net/ \\
+  Free and open source and cross-platform
+  Started as a bug-fix for the computer-vs-player feature of SCID then grew as an alternative
+- ChessBase https://shop.chessbase.com/en/categories/chessbase-cb \\
+  Proprietary and platform-dependant (Windows)
+- Tarrasch Chess http://www.triplehappy.com/ \\
+
+** Engines
+- Stockfish https://stockfishchess.org/
+- Leela Chess Zero https://lczero.org/
+- Komodo https://komodochess.com/
+
+** Databases
+- chessgames https://www.chessgames.com/
+- 365chess https://www.365chess.com/
+- Chesscom database https://www.chess.com/games
+
+** Tools
+- OpeningTree [[https://www.openingtree.com/][openingtree.com]] \\
+  Dangerously good tool for preperation, including game exports and statistics
+
+* Movies & Shows
+- The Queen's Gambit https://www.imdb.com/title/tt10048342/ \\
+  This series is the first of its kind. very popular and it has been reviewed by Garry Kasparov.
+- Magnus 2016 https://www.imdb.com/title/tt5471480/ \\
+  A Documantary about the life of Magnus Carlsen
+- Pawn Sacrifice 2014 https://www.imdb.com/title/tt1596345/ \\
+  Drama and Biography of the legendary Bobby Fischer
+
+* Notable games
+- The Game of the Century - D Byrne vs Fischer, 1956 https://www.chessgames.com/perl/chessgame?gid=1008361
+- The Immortal Game - Anderssen vs Kieseritzky, 1851 https://www.chessgames.com/perl/chessgame?gid=1018910
+- The Brisbane Bombshell - Anatoly Karpov vs Garry Kasparov,1985
+  https://www.chessgames.com/perl/chessgame?gid=1067175
+- Albert Einstein vs Robert Oppenheimer,1993 https://www.chessgames.com/perl/chessgame?gid=1261614
+- Notable Chess Games of All Time https://www.chessgames.com/perl/goat.pl
+
+* Research
+- [[https://arxiv.org/abs/1712.01815][Mastering Chess and Shogi by Self-Play with a General
+  Reinforcement Learning Algorithm]] \\
+  This was the beginning of an era of ML based computer chess engines with AlphaZero chess.
+- [[https://link.springer.com/chapter/10.1007/978-1-4757-1968-0_1][Programming a Computer for Playing Chess]] \\
+  The original paper about the design of chess playing computers by
+  Claude E. Shannon
+- [[https://arxiv.org/abs/2006.01855][Aligning Superhuman AI with Human Behavior: Chess as a Model System]] \\
+  The maiachess project can be found here https://maiachess.com/
+- [[https://lichess.org/@/piazzai/blog/do-variants-help-you-play-better-chess-statistical-evidence/0tAPXnqH][Do Variants Help You Play Better Chess? Statistical Evidence]]
+- [[https://database.lichess.org/][lichess.org open database]] \\
+  Lichess games and puzzles publicly available in different
+  formats. The Related Projects sections contains interesting projects
+  using the database.
+
+* Humour
+- [[https://www.reddit.com/r/AnarchyChess/][r/AnarchyChess]]
+- +[[https://www.youtube.com/watch?v=MFNv-FJFGTg][Amateur Challenges Chess Grandmaster Magnus Carlsen | WSJ]]+
