@@ -160,6 +160,8 @@ entire game is considered checkmate
 - ChessBase https://shop.chessbase.com/en/categories/chessbase-cb \\
   Proprietary and platform-dependant (Windows)
 - Tarrasch Chess http://www.triplehappy.com/ \\
+- ChessX \\
+  Free Chase Database https://chessx.sourceforge.io/
 
 ** Engines
 - Stockfish https://stockfishchess.org/
