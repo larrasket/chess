@@ -162,6 +162,8 @@ entire game is considered checkmate
 - Tarrasch Chess http://www.triplehappy.com/ \\
 - ChessX \\
   Free Chase Database https://chessx.sourceforge.io/
+- PyChess https://pychess.github.io \\
+  A chess client for windows/linux
 
 ** Engines
 - Stockfish https://stockfishchess.org/
